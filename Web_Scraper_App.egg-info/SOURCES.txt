@@ -1,0 +1,10 @@
+setup.py
+Web_Scraper_App.egg-info/PKG-INFO
+Web_Scraper_App.egg-info/SOURCES.txt
+Web_Scraper_App.egg-info/dependency_links.txt
+Web_Scraper_App.egg-info/requires.txt
+Web_Scraper_App.egg-info/top_level.txt
+bin/myscript.py
+webscraper_app/__init__.py
+webscraper_app/find_all_instances_tag_at_once.py
+webscraper_app/parse_page_long.py
